@@ -8,7 +8,9 @@
 | **Mata Kuliah** | Kriptografi                  |
 
 *encrypt*
+
 ![img](img/1.png)
 
 *decrypt*
+
 ![img](img/2.png)
