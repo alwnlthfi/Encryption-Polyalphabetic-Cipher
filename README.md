@@ -7,8 +7,8 @@
 | **Kelas**       | TI.21.A.1                    |
 | **Mata Kuliah** | Kriptografi                  |
 
-**encrypt**
+*encrypt*
 ![img](img/1.png)
 
-**decrypt**
+*decrypt*
 ![img](img/2.png)
